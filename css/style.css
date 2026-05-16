@@ -1,0 +1,45 @@
+
+#box{
+
+   width:200px;
+   height:200px;
+   background-color:blue;
+
+}
+
+
+#boxCouleur {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  
+}
+
+.activeCouleur {
+  background-color: red;
+}
+
+#btnCouleur{
+  
+   margin-bottom: 20rem;
+}
+
+#lampe {
+  width: 200px;
+  height: 200px;
+  background-color: gray;
+}
+
+#lampe.allume {
+  background-color: yellow;
+}
+
+#boutonlampe {
+  margin-bottom: 20rem;
+}
+
+.activecontent{
+
+   background-color:red;
+
+}
